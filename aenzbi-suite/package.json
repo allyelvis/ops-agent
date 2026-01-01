@@ -10,9 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.4",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "passport": "^0.7.0",
     "passport-facebook": "^3.0.0",
     "passport-github": "^1.1.0",
